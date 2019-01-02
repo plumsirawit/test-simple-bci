@@ -1,5 +1,6 @@
 {
   "name": "Test Simple BCI",
   "integrations": {},
-  "type": "angular"
+  "type": "angular",
+  "id": "9a2c78cc"
 }
